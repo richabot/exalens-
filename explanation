@@ -1,0 +1,9 @@
+
+->First we will store score for all the blocks if required data mets with blocks given data.
+if its true then increase score of that particular apartment
+->now we have to find max score and and block of that max score
+once we find that max score we set it in nearestBlockScore and we get nearestBlock
+
+After iterating throughout the blocks if nearestBlock is still 0
+then we find other block who satisfy the condition and assign them a score
+
